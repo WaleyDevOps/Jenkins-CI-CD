@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: waledevops/ultimate-cicd:replaceImageTag
+        image: waledevops/ultimate-cicd:8
         ports:
         - containerPort: 8080
